@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AplikasiListMovie2</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="title">
+        <item>Fantastic Beasts and Where to Find Them</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Venom</item>
+
+    </string-array>
+    <string-array name="rating">
+        <item>3.5</item>
+        <item>2.5</item>
+        <item>4.0</item>
+
+    </string-array>
+    <string-array name="status">
+        <item>Playing</item>
+        <item>Coming Soon</item>
+        <item>Playing</item>
+    </string-array>
+</resources>
